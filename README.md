@@ -1,6 +1,6 @@
 <h1 align="center"> Sistema de acompanhamento Resilia </h1>
 
-![Screenshot](modelagem.png)
+![Screenshot](modelagem-m4.png)
 
 ## 👉 Contexto
 <p>
